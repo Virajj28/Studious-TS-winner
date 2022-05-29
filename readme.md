@@ -1,6 +1,7 @@
 ### The Net Ninja : TS Tutorial
 Started on 22nd May 2022 => Complete JS for classes then visit once again for better clarity.
-To my reference doc[https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html]
+<br>
+[To my reference doc](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 <br>
 Lesson2: tsc [filename.ts] , tsc [filename.ts] --w
 <br>
